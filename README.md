@@ -1,1 +1,1 @@
-# Finals-Task-3.-Table-Manipulation-using-mySQL-Workbench
+# Finals Task 3 - Table Manipulation using mySQL Workbench
